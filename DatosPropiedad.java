@@ -1,29 +1,32 @@
-public class DatosPropiedad {    
-    
-    // Atributos
-    private String SNR;
-    private String Direccion;
-    private String Telefono;
-    private String Barrio;
-    private String Zona;
-    private Integer Precio_alquiler;
-    private String Descripcion_propiedad;
+// public class Inmueble {    
+//       // Atributos
 
+//       private String SNR, Direccion, Telefono ,Barrio , Zona, Descripcion_propiedad;
+//       private Integer Precio_alquiler;
 
- //Constructor
- /**
- * 
- */
-    public DatosPropiedad(String SNR;String Direccion;String Telefono;String Barrio;String Zona;Integer Precio_alquiler;String Descripcion_propiedad){
-    SNR = nuevoSNR;
-    Direccion = nuevadireccion;
-    Telefono = nuevoTelefono;
-    Barrio = nuevoBarrio;
-    Zona = nuevoZona;
-    Precio_alquiler = nuevoPrecio_alquiler;
-    escripcion_propiedad= nuevoDescripcion_propiedad;
-}
-    
+//       public Inmueble (String SNR,String Direccion, String Telefono, String Barrio, String Zona, String Descipcion_propiedad, Integer Precio_alquiler) {
+//         this.SNR = SNR;
+//         this.Direccion = Direccion;
+//         this.Telefono= Telefono;
+//         this.Barrio=Barrio;
+//         this. Zona = Zona;
+//         this.Descripcion_propiedad= Descipcion_propiedad;
+//         this.Precio_alquiler=Precio_alquiler;
+//       }
       
-}
+//       public Inmueble(){
+//         this.SNR = "";
+//         this.Direccion = "";
+//         this.Telefono= "";
+//         this.Barrio="";
+//         this. Zona = "";
+//         this.Descripcion_propiedad= "";
+//         this.Precio_alquiler="";
+//       }
+    
+     
+
+
+
+
 
